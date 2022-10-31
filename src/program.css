@@ -1,0 +1,41 @@
+.wynik {
+    background-color: rgb(46, 133, 184);
+    width: 100%;
+    height: 55px;
+    padding-bottom: 5px;
+  }
+  
+  .wynik p {
+    font-size: 45px;
+    margin: 10px;
+  
+  }
+  
+  .kalkulator_css {
+    max-width: 350px;
+    margin: auto;
+    text-align: center;
+  }
+
+  .przyciski {
+    display: block;
+  }
+  
+  button {
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+    background-color: rgb(133, 37, 55);
+    outline-style: solid;
+    outline-color: rgb(189, 51, 23);
+  }
+  button:hover {
+    background-color: rgb(26, 54, 131);
+  }
+  h2 {
+    text-align:center;
+  }
+
+  .ciekawostki{
+    text-align:center;
+  }
